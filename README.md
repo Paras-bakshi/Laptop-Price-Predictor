@@ -1,0 +1,22 @@
+# Laptop-Price-Predictor
+Web-based application using Streamlit which predict the Price of the laptop using Machine Learning.
+
+Business Problem 
+Predict the Price of laptop on the basis of
+
+Context A dataset for 1300 laptop models.
+
+Content, Company Name, Product Name, Laptop Type, Screen Inches, Screen Resolution, CPU Model, RAM Characteristics, Memory, GPU Characteristics, Operating System, Laptop's Weight, Laptop's Price
+
+Source-https://www.kaggle.com/ionaskel/laptop-prices
+
+Machine Leaning Problem
+It is a Regresion problem, for a given columns we need to predict the price of laptop.
+
+Performance Metric
+R2 Score
+
+Mean Absolute Error
+Results Comparision
+<img width="597" alt="1" src="https://user-images.githubusercontent.com/63099028/180611808-28a90158-4f95-4199-b767-f53e584b7366.PNG">
+<img width="938" alt="2" src="https://user-images.githubusercontent.com/63099028/180611810-97d7b279-f1b0-4f62-9469-4f01b931e1f6.PNG">
