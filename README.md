@@ -2,7 +2,7 @@
 • Web-based application that predicts the price of the laptop according to the configuration input by user.
 • The project includes eight major stages of the ML life cycle to result in structured, practical business value.
 
-#Business Problem
+# Business Problem
 Predict the Price of laptop on the basis of
 
 Context A dataset for 1300 laptop models.
@@ -15,15 +15,15 @@ It is a Regresion problem, for a given columns we need to predict the price of l
 
 Performance Metric
 
-R2 Score
+1. R2 Score
 
-Mean Absolute Error
+2. Mean Absolute Error
 
-#Results Comparision
-#Amazon Price
+# Results Comparision
+# Amazon Price
 
 <img width="597" alt="1" src="https://user-images.githubusercontent.com/63099028/180611808-28a90158-4f95-4199-b767-f53e584b7366.PNG">
 
-#Predicted Price
+# Predicted Price
 
 <img width="938" alt="2" src="https://user-images.githubusercontent.com/63099028/180611810-97d7b279-f1b0-4f62-9469-4f01b931e1f6.PNG">
