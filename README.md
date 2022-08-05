@@ -21,6 +21,10 @@ Performance Metric
 
 2. Mean Absolute Error
 
+# Display
+<img width="407" alt="1" src="https://user-images.githubusercontent.com/63099028/183035027-a8e3e365-7d37-4ed1-93d3-02ecd44ff668.PNG">
+
+
 # Results Comparision
 # Amazon Price
 
